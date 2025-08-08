@@ -1,0 +1,122 @@
+[ ✅ JS 연습용 프로젝트 추천 리스트 ]
+
+🌱 입문 (~초급)
+
+1. 랜덤 배경색 생성기 🎨
+- 버튼 클릭 시 배경색 변경
+- HEX ↔ RGB 전환, 복사 기능
+- 난이도: ★☆☆
+
+2. 카운터 앱 ➕➖
+- 숫자 증가/감소, 초기화
+- 숫자 색상 변화(양/음/0)
+- 난이도: ★☆☆
+
+3. 가위바위보 게임 ✊✋✌️
+- 사용자 vs 컴퓨터
+- 이긴 횟수, UI 애니메이션
+- 난이도: ★☆☆
+
+4. 할 일 목록 (Todo List) ✅
+- 추가, 삭제, 체크, 필터
+- localStorage, 날짜 표시
+- 난이도: ★★☆
+
+
+⚙️ 기능 확장 (~중급)
+
+5. 할 일 타이머 앱 (Pomodoro) ⏳
+- 타이머 시작/일시정지/리셋
+- 진행률 표시, 사운드 알림
+- 난이도: ★★☆
+
+6. 계산기 앱 (Calculator) 🧮
+- 사칙연산, 연산 우선순위
+- 키보드 입력 대응
+- 난이도: ★★☆~★★★
+
+7. 날씨 검색기 (OpenWeather API) ☀️🌧
+- 도시 입력 → 날씨 표시
+- 로딩/에러 처리, 검색 기록 저장
+- 난이도: ★★☆
+
+8. 이미지 슬라이더 📸
+- 이전/다음 버튼, 자동 슬라이드
+- 터치/스와이프 대응
+- 난이도: ★★☆
+
+
+📦 데이터 처리 & 응용 (~중상급)
+
+9. 간단한 가계부 앱 💰
+- 수입/지출 기록, 날짜별 필터
+- localStorage로 데이터 저장
+- 난이도: ★★☆
+
+10. 북마크 리스트 🔖
+- 사이트 URL 저장, 삭제, 카테고리 분류
+- favicon 표시, localStorage 저장
+- 난이도: ★★☆
+
+
+- 나이 계산기 age-calculator  
+- 애니메이션 이미지 생성기 amine-pics-generator  
+- 애니메이션 검색창 animated-search-bar  
+- 자동 텍스트 효과 auto-text-effect-animation  
+- 배경 이미지 스크롤 효과 background-image-scroll-effect  
+- 배경 비디오 background-video  
+- 기본 계산기 basic-calculator ✅ (계산기 앱)  
+- 블러 배경 팝업 blurred-background-popup  
+- BMI 계산기 bmi-calculator  
+- 버튼 리플 효과 button-ripple-effect  
+- 시계 clock  
+- 카운터 앱 counter ✅ (숫자 증가/감소 앱)  
+- 환율 변환기 currency-converter  
+- 아빠 농담 생성기 dad-jokes-generator  
+- 다크 모드 토글 dark-mode-toggle  
+- 주사위 굴리기 시뮬레이터 dice-roll-simulator  
+- 디지털 시계 digital-clock  
+- 이중 랜딩 페이지 double-landing-page  
+- 드럼 키트 drum-kits  
+- 이모지 평점 emoji-rating  
+- 영어 사전 english-dictionary  
+- 피드백 UI feedback-ui  
+- 하트 트레일 애니메이션 heart-trail-animation  
+- 이미지 검색 앱 image-search-app  
+- 이미지 슬라이더 image-slider ✅ (이미지 슬라이더)  
+- 로딩 바 loading-bar  
+- 대출 계산기 loan-calculator  
+- 미니 캘린더 mini-calendar  
+- 월간 달력 month-calender  
+- 마우스 이벤트 실험 mouse-event  
+- 구구단 앱 multiplication-app  
+- 음악 플레이어 music-player  
+- 내비게이션 바 navbar  
+- 새해 카운트다운 new-year-countdown  
+- 메모 앱 note-app  
+- 사진 갤러리 photo-gallery  
+- 뽀모도로 타이머 pomodoro-timer ✅ (할 일 타이머 앱)  
+- 프로필 통계창 profile-statistics  
+- Q&A 섹션 q-and-a-section  
+- 랜덤 색상 생성기 random-color-generator ✅ (랜덤 배경색 생성기)  
+- 랜덤 이모지 생성기 random-emoji  
+- 랜덤 비밀번호 생성기 random-password-generator  
+- 랜덤 사진 생성기 random-photos  
+- 랜덤 명언 생성기 random-quote-generator  
+- 실시간 글자 수 세기 real-time-character-counter  
+- 레시피 북 앱 recipe-book-app  
+- 가위바위보 게임 rock-paper-scissors-game ✅ (가위바위보 게임)  
+- 회전 이미지 갤러리 rotating-image-gallery  
+- 사이드바 sidebar  
+- 소셜 미디어 선택 메뉴 social-media-selector-menu  
+- 단계별 진행 바 step-progress-bar  
+- 고정 내비게이션 바 sticky-navbar  
+- 스톱워치 stopwatch  
+- 탭 UI tabs  
+- 온도 변환기 temperature-converter  
+- 추천 슬라이더 testimonial-slider  
+- 팁 계산기 tip-calculator  
+- 할 일 목록 to-do-list ✅ (Todo 리스트)  
+- 동영상 트레일러 팝업 video-trailer-popup  
+- 날씨 앱 weather-app ✅ (날씨 검색기)  
+- 체중 변환기 weight-converter  

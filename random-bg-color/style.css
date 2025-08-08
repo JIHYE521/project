@@ -1,0 +1,12 @@
+.copyBtns {
+    margin-bottom: 0.5rem;
+    display: flex;
+    gap: 1.2rem;
+}
+.copyBtns button {
+    padding-bottom: 0.2rem;
+    border-bottom: 1px solid transparent;
+}
+.copyBtns button:hover {
+    border-bottom: 1px solid #000;
+}
