@@ -1,21 +1,21 @@
-const btnMinus = document.querySelector(".btn-minus");
-const btnAdd = document.querySelector(".btn-add");
-const btnReset = document.querySelector(".btn-reset");
+const section = document.querySelector("section");
 const displayNum = document.querySelector(".num");
 
 let num = 0;
 
-btnMinus.addEventListener("click", () => {
-    num--;
-    displayNum.innerText = num;
+function displayNumber() {
+    displayNum.textContent = num;
+}
+
+section.addEventListener("click", (e) => {
+    const btn = e.target.closest("button");
+    if (!btn) return;
+
+    if (btn.classList.contains("btn-minus")) num--;
+    if (btn.classList.contains("btn-add")) num++;
+    if (btn.classList.contains("btn-reset")) num = 0;
+
+    displayNumber();
 });
 
-btnAdd.addEventListener("click", () => {
-    num++;
-    displayNum.innerText = num;
-});
-
-btnReset.addEventListener("click", () => {
-    num = 0;
-    displayNum.innerText = num;
-});
+displayNumber();
