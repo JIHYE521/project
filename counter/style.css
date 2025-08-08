@@ -9,7 +9,6 @@
     box-sizing: border-box;
     overflow: hidden;
 }
-
 .counter button {
     display: block;
     flex: 1;
@@ -31,12 +30,5 @@
     font-size: 1.2rem;
 }
 .btn-reset {
-    padding: 0.2rem 0.5rem;
-    border-radius: 0.2rem;
     margin-top: 1rem;
-    color: #fff;
-    background-color: #b90f0f;
-}
-.btn-reset:hover {
-    background-color: #e90f0f;
 }
