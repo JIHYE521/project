@@ -3,3 +3,53 @@
 함수를 어떻게 쪼개야하는지 ..
 이벤트리스너 + 함수 이렇게 조합 ?
 => 상황마다 다르지만 이벤트리스너, 함수 각각 나눠 놓는 것 추천
+
+⭐Day 1 – 입문 UI & 이벤트 기초
+Random Color Generator → DOM 스타일 제어
+Real-time Character Counter → 입력값 이벤트 처리
+Multiplication App → 반복문·간단 연산
+
+Day 2 – 단순 상태 제어
+Sticky Navbar → 스크롤 이벤트
+Tabs Section → UI 토글
+Dark Mode Toggle → CSS 변수 + localStorage 저장
+
+⭐Day 3 – 기본 로직 구현
+Basic Calculator → 사칙연산·이벤트 처리
+BMI Calculator → 계산 + 유효성 검사
+Loading Bar → 진행률·애니메이션
+
+Day 4 – 시계·날짜 기능
+Analogue Clock → CSS transform
+Digital Clock → 실시간 업데이트
+Mini Calendar → 날짜 계산·렌더링
+
+⭐Day 5 – 폼과 리스트
+Feedback UI → 폼 처리·상태 표시
+To do List → CRUD + localStorage
+Sidebar Menu → 내비게이션 토글
+
+Day 6 – 시각적 컴포넌트 심화
+Step Progress Bar → 단계별 UI
+Image Slider → 캐러셀 구현
+Photo Gallery → 이미지 모달
+
+⭐Day 7 – 간단 API 연동
+Random Quote Generator → fetch + 데이터 표시
+Currency Converter → API + 계산
+Random Photos → Unsplash API
+
+Day 8 – 타이머와 애니메이션
+Pomodoro Timer → 상태 전환 + 타이머
+Auto Text Effect Animation → setInterval + 문자열 처리
+Video Trailer Popup → 모달 + 미디어 컨트롤
+
+Day 9 – 날짜·이벤트 응용
+Loan Calculator → 폼 입력 + 계산
+Month Calender → 달력 구조·이벤트
+Blurred Background Popup → UI 효과
+
+⭐Day 10 – 종합 응용
+Weather App → API + UI 구성
+Electronic Drum Kits → 키보드 이벤트 + 오디오
+Random Password Generator → 문자열·유효성 검증
